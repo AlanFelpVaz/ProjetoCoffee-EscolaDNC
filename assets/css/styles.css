@@ -10,6 +10,7 @@
     padding: 0.4em 2em;
     position: absolute;
     margin-left: 25%;
+    display: none;
 }
 .cardBtn:hover {
     -webkit-transform: scale(1.0);

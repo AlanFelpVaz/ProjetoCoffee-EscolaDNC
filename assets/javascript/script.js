@@ -15,8 +15,7 @@ cards.forEach(button =>{
     });
 
 });
-
 }
 
-mouseEnter();
+
 
