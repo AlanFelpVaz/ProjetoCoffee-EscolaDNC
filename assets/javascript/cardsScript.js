@@ -2,8 +2,6 @@ function mouseEnter(){
 
 const cards = document.querySelectorAll('.cards-over');
 
-const buttons = document.querySelectorAll('.cardBtn')
-
 cards.forEach(button =>{
 
     button.addEventListener('mouseover', (event) =>{
