@@ -1,0 +1,27 @@
+.cardBtn{
+    margin-top: 5px;
+    border: none;
+    background-color: rgb(125, 87, 160);
+    color: white;
+    font-size: 15px;
+    box-shadow: 1px 1px 3px grey;
+    font-weight: 500;
+    border-radius: 10px;
+    padding: 0.4em 2em;
+    position: absolute;
+    margin-left: 25%;
+}
+.cardBtn:hover {
+    -webkit-transform: scale(1.0);
+    transform: scale(1.1);
+    transition: 120ms;
+}
+.cards-over {
+    padding-bottom: 4em;
+}
+.cards-over:hover {
+    -webkit-transform: scale(1.0);
+    transform: scale(1.02);
+    transition: 120ms;
+    box-shadow: 1px 1px 3px grey;
+}
