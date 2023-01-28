@@ -78,10 +78,9 @@
     align-items: center;
     padding: 15px;
     top: 3%;
-    left: 35%;
     background-color: #fff;
     z-index: 10;
-    max-width: 100%;
+    max-width: 90%;
     border-radius: 1rem;
 
     animation: modalAnimation 0.5s ease-in-out;
@@ -117,6 +116,14 @@
 #ModalSec {
     transition: .5s;
     pointer-events: all;
+}
+
+#modalAlinhamento {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    height: 100%;
 }
 
 
