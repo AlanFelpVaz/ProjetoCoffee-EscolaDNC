@@ -1,7 +1,3 @@
-const linkModal = document.querySelector("#openModal");
-
-const fecharModal = document.querySelector("#closeModal");
-
 const modal = document.querySelector("#modalSec");
 
 const fade = document.querySelector("#fadeModal");
